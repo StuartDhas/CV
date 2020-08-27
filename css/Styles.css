@@ -1,0 +1,16 @@
+body{
+    background-color:#F0FFFF;
+    }
+hr{
+
+  border-style: dotted none none;
+  width: 10%;
+  border-color: lightgrey;
+  border-width: 5px;
+  }
+  h1{
+    color: teal;
+  }
+  h3{
+    color: #993366;
+  }
